@@ -13,6 +13,7 @@
         android:layout_height="100dp"
         android:layout_weight="1"
         android:background="@color/black"
+        android:layout_gravity="center"
         android:gravity="center" />
     <ImageView
         android:layout_width="0dp"
