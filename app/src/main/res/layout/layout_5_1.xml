@@ -48,7 +48,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintLeft_toRightOf="@id/n1"
             app:layout_constraintRight_toLeftOf="@id/guideline"
-            android:contentDescription="@string/empty_imageView" />
+            android:contentDescription="@null" />
 
         <ImageButton
             android:id="@+id/n4"

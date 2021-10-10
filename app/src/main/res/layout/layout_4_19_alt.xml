@@ -29,6 +29,6 @@
         android:background="@color/teal_200"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toRightOf="@id/text"
-        android:contentDescription="@string/empty_imageView" />
+        android:contentDescription="@null" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,6 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" tools:ignore="Typos">lab1</string>
-    <string name="empty_imageView">Empty ImageView</string>
-    <string name="empty_imageButton">Empty ImageButton</string>
-    <string name="empty_editText">Empty EditText</string>
+    <string name="empty_imageButton">Image button which does nothing. It has no image</string>
+    <string name="empty_editText">Empty EditText. You don\'t need to write anything here</string>
 </resources>
